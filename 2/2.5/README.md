@@ -1,0 +1,1 @@
+Урок в прозе: https://proproprogs.ru/python_base/python3-logicheskiy-tip-bool-operatory-sravneniya-i-operatory-and-or-not
