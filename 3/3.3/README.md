@@ -1,0 +1,2 @@
+Урок в прозе: https://proproprogs.ru/python_base/python3-osnovnye-metody-strok
+
