@@ -1,0 +1,1 @@
+Урок в прозе: https://proproprogs.ru/python_base/python3-uslovnyy-operator-if-konstrukciya-if-else
