@@ -1,0 +1,1 @@
+Урок в прозе: https://proproprogs.ru/python_base/python3-vlozhennye-usloviya-i-mnozhestvennyy-vybor-konstrukciya-if-elif-else
