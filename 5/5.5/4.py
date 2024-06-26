@@ -1,0 +1,7 @@
+num = int( input() )
+snum = str( num )
+i = iter( snum )
+print( next( i ), end = " " )
+print( next( i ), end = " " )
+print( next( i ), end = " " )
+print( next( i ), end = " " )
