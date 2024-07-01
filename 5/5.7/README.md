@@ -1,0 +1,1 @@
+Урок в прозе: https://proproprogs.ru/python_base/python3-treugolnik-paskalya-kak-primer-raboty-vlozhennyh-ciklov
