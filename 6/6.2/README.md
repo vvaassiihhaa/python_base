@@ -1,0 +1,1 @@
+Урок в прозе: https://proproprogs.ru/python_base/python3-metody-slovarya-perebor-elementov-slovarya-v-cikle
